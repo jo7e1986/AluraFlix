@@ -1,0 +1,108 @@
+{
+  "videos": [
+    {
+      "id": "7e04",
+      "titulo": "Equipo Front End",
+      "urlVideo": "https://www.youtube.com/embed/rpvrLaBQwgg?si=8IDFhTs0g6aQbSJO",
+      "urlImagen": "https://www.youtube.com/embed/rpvrLaBQwgg?si=8IDFhTs0g6aQbSJO",
+      "categoria": "Front End",
+      "descripcion": "Equipo Front End descripcion",
+      "codigoSeguridad": "1"
+    },
+    {
+      "id": "ff02",
+      "titulo": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev",
+      "urlVideo": "https://www.youtube.com/embed/QjOWz9avkg8?si=OEP2js11-_hu6YaM",
+      "urlImagen": "https://www.youtube.com/embed/QjOWz9avkg8?si=OEP2js11-_hu6YaM",
+      "categoria": "Front End",
+      "descripcion": "Front-end vs. Back-end: ¡Descubre el lado perfecto para ti! #LuchaDev Descripcion",
+      "codigoSeguridad": "2"
+    },
+    {
+      "id": "15ed",
+      "titulo": "Cómo volverse un desarrollador Front End #AluraTips",
+      "urlVideo": "https://www.youtube.com/embed/-Ou5c3A225k?si=fLMS4tB96bq2lynv",
+      "urlImagen": "https://www.youtube.com/embed/-Ou5c3A225k?si=fLMS4tB96bq2lynv",
+      "categoria": "Front End",
+      "descripcion": "Cómo volverse un desarrollador Front End #AluraTips Descripcion",
+      "codigoSeguridad": "3"
+    },
+    {
+      "id": "1b65",
+      "titulo": "Especialidad BACKEND | RESUMEN SEMANA 1 - 3 | Oracle Next Education + Alura Latam",
+      "urlVideo": "https://www.youtube.com/embed/b71kWley8-o?si=zfm4AofgbScezGYd",
+      "urlImagen": "https://www.youtube.com/embed/b71kWley8-o?si=zfm4AofgbScezGYd",
+      "categoria": "Back End",
+      "descripcion": "Especialidad BACKEND | RESUMEN SEMANA 1 - 3 | Oracle Next Education + Alura Latam Descripcion ",
+      "codigoSeguridad": "4"
+    },
+    {
+      "id": "3bdb",
+      "titulo": "Desmistificando el Back-End",
+      "urlVideo": "https://www.youtube.com/embed/LLt7FreeHfQ?si=eJVCljuAxPsnJfet",
+      "urlImagen": "https://www.youtube.com/embed/LLt7FreeHfQ?si=eJVCljuAxPsnJfet",
+      "categoria": "Back End",
+      "descripcion": "Desmistificando el Back-End Descripcion",
+      "codigoSeguridad": "5"
+    },
+    {
+      "id": "a532",
+      "titulo": "Simplificando el Back End #AluraTips",
+      "urlVideo": "https://www.youtube.com/embed/XuSXJ9DUcvY?si=MUUF1c4bsE-9BHYu",
+      "urlImagen": "https://www.youtube.com/embed/XuSXJ9DUcvY?si=MUUF1c4bsE-9BHYu",
+      "categoria": "Back End",
+      "descripcion": "Simplificando el Back End #AluraTips Descripcion ",
+      "codigoSeguridad": "6"
+    },
+    {
+      "id": "4cbf",
+      "titulo": "Guia de Carreira: DevOps",
+      "urlVideo": "https://www.youtube.com/embed/VfC5QyP4n9s?si=nUn_ZDF0nsjPesaz",
+      "urlImagen": "https://www.youtube.com/embed/VfC5QyP4n9s?si=nUn_ZDF0nsjPesaz",
+      "categoria": "Dev Ops",
+      "descripcion": "Guia de Carreira: DevOps Descripcion",
+      "codigoSeguridad": "7"
+    },
+    {
+      "id": "ea36",
+      "titulo": "DevOps en 5 minutos | ¿Qué es DevOps? | Explicación DevOps",
+      "urlVideo": "https://www.youtube.com/embed/3-vd5NDH1-I?si=rYk34a4l7ItESFy_",
+      "urlImagen": "https://www.youtube.com/embed/3-vd5NDH1-I?si=rYk34a4l7ItESFy_",
+      "categoria": "Dev Ops",
+      "descripcion": "DevOps en 5 minutos | ¿Qué es DevOps? | Explicación DevOps Descripcion",
+      "codigoSeguridad": "9"
+    },
+    {
+      "id": "5303",
+      "titulo": "¿Qué tareas hace un profesional de DevOps? | #ConectaEmpleo",
+      "urlVideo": "https://www.youtube.com/embed/MagivhkTrGc?si=A9Y5iLbVDZhRRmQ-",
+      "urlImagen": "https://www.youtube.com/embed/MagivhkTrGc?si=A9Y5iLbVDZhRRmQ-",
+      "categoria": "Dev Ops",
+      "descripcion": "¿Qué tareas hace un profesional de DevOps? | #ConectaEmpleo Descripcion",
+      "codigoSeguridad": "9"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "f4ea",
+      "nombre": "Front End",
+      "descripcion": "Cursos de Front End de Alura",
+      "color": "#ff0000",
+      "codigoSeguridad": "1"
+    },
+    {
+      "id": "032a",
+      "nombre": "Back End",
+      "descripcion": "Cursos de Back End de Alura",
+      "color": "#7315e5",
+      "codigoSeguridad": "2"
+    },
+    {
+      "id": "2019",
+      "nombre": "Dev Ops",
+      "descripcion": "Cursos de Dev Ops de Alura",
+      "color": "#7bbd00",
+      "codigoSeguridad": "3"
+    }
+  ]
+}

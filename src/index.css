@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.banner {
+  background-image: url("/public/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

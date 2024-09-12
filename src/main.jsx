@@ -8,26 +8,31 @@ import NuevoVideoRoute from "./routes/NuevoVideoRoute.jsx";
 import NuevaCategoriaRoute from "./routes/NuevaCategoriaRoute.jsx";
 import ErrorRoute from "./routes/ErrorRoute.jsx";
 
-const router = createBrowserRouter([
+const router = createBrowserRouter(
+  [
+    {
+      element: <App />,
+      errorElement: <ErrorRoute />,
+      children: [
+        {
+          path: "/",
+          element: <HomeRoute />,
+        },
+        {
+          path: "/nuevo-video",
+          element: <NuevoVideoRoute />,
+        },
+        {
+          path: "/nueva-categoria",
+          element: <NuevaCategoriaRoute />,
+        },
+      ],
+    },
+  ],
   {
-    element: <App />,
-    errorElement: <ErrorRoute />,
-    children: [
-      {
-        path: "/",
-        element: <HomeRoute />,
-      },
-      {
-        path: "/nuevo-video",
-        element: <NuevoVideoRoute />,
-      },
-      {
-        path: "/nueva-categoria",
-        element: <NuevaCategoriaRoute />,
-      },
-    ],
-  },
-]);
+    basename: "/AluraFlix/",
+  }
+);
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>

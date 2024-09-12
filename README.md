@@ -1,8 +1,21 @@
-# React + Vite
+# Aluraflix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Aluraflix** es una plataforma inspirada en Netflix para estudiantes de **Alura**. Permite encontrar videos educativos y agregar nuevas categorías y videos según tus intereses.
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Parte 1: Componentes
+- **Botón**, **Header**, **Banner**, **Footer**
+- **Slider**, **Carrusel**, **Campo de Texto**
+- **Componente Default** para manejar rutas no encontradas.
+
+### Parte 2: Hooks y Rutas
+- Registro de **nuevas categorías** y **nuevos videos**.
+- Creación de **Home** y **rutas** entre páginas.
+- Llamadas a servidor usando **json-server** para simular una API.
+- **Deploy** de la aplicación.
+
+## Tecnologías
+- **React**, **React Router DOM**, **Styled-components/Tailwind CSS**
+- **Hooks**, **Axios**, **json-server**
+

@@ -1,5 +1,5 @@
 import axios from "axios";
-const url = "http://localhost:3000/videos";
+const url = "https://jo7e1986.github.io/videos";
 
 export const getVideosRequest = () => {
   return axios(url);

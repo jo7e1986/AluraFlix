@@ -1,10 +1,11 @@
 import { Link } from "react-router-dom";
+import logo from "/alura-flix-logo.png";
 
 function Header() {
   return (
     <header className="flex items-center justify-between p-5 text-white bg-black border-b border-b-blue-500">
       <Link to="/">
-        <img src="/alura-flix-logo.png" alt="alura flix logo" />
+        <img src={logo} alt="alura flix logo" />
       </Link>
       <nav className="text-lg sm:text-xl">
         <ul>

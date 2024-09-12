@@ -1,5 +1,5 @@
 import axios from "axios";
-const url = "http://localhost:3000/categorias";
+const url = "https://jo7e1986.github.io/categorias";
 
 export const getCategoriasRequest = () => {
   return axios(url);

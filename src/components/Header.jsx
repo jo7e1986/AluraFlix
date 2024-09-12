@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import logo from "/alura-flix-logo.png";
+import logo from "../../public/alura-flix-logo.png";
 
 function Header() {
   return (

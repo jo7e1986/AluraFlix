@@ -1,3 +1,5 @@
+import aluraLatam from "../../public/alura-latam.png";
+
 function Banner() {
   return (
     <section className="flex flex-col items-center gap-5 p-5 pt-10 text-white sm:py-5 sm:flex-row banner">
@@ -13,7 +15,7 @@ function Banner() {
         </p>
       </div>
       <div>
-        <img src="/alura-latam.png" className="rounded" alt="banner img" />
+        <img src={aluraLatam} className="rounded" alt="banner img" />
       </div>
     </section>
   );
